@@ -1,0 +1,3 @@
+/Users/huntergruwell/CLionProjects/HotPlate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/huntergruwell/CLionProjects/HotPlate/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/huntergruwell/CLionProjects/HotPlate/cmake-build-debug/CMakeFiles/HotPlate.dir
